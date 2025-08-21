@@ -1,0 +1,157 @@
+{
+  "Treatment": {
+    "v1": {
+      "Week": "0°",
+      "Day": 1.0,
+      "Informed Consent?": true,
+      "Inclusion/exclusion criteria": true,
+      "Medical/Surgical History": "x*",
+      "Patient's Global Assessment of Disease Activity (VAS) (PtGA)*": "x*",
+      "Patient's Assessment of PsA Pain Intensity (VAS)*": "x*",
+      "HAQ-DI*": true,
+      "BASDAI*": true,
+      "SF-36v2\"": true,
+      "FACIT-F*": true,
+      "Vital Signs": "x*",
+      "ECG": "x*",
+      "Physical Exam (c = complete, t = targeted)": {
+        "value": true,
+        "qualifier": "c"
+      }
+    },
+    "v2": {
+      "Week": 4.0,
+      "Day": 2944.0,
+      "Informed Consent?": null,
+      "Inclusion/exclusion criteria": null,
+      "Medical/Surgical History": null,
+      "Patient's Global Assessment of Disease Activity (VAS) (PtGA)*": true,
+      "Patient's Assessment of PsA Pain Intensity (VAS)*": true,
+      "HAQ-DI*": true,
+      "BASDAI*": null,
+      "SF-36v2\"": true,
+      "FACIT-F*": null,
+      "Vital Signs": "Xx",
+      "ECG": null,
+      "Physical Exam (c = complete, t = targeted)": {
+        "value": true,
+        "qualifier": "t"
+      }
+    },
+    "V3": {
+      "Week": 12.0,
+      "Day": 8544.0,
+      "Informed Consent?": null,
+      "Inclusion/exclusion criteria": null,
+      "Medical/Surgical History": null,
+      "Patient's Global Assessment of Disease Activity (VAS) (PtGA)*": true,
+      "Patient's Assessment of PsA Pain Intensity (VAS)*": true,
+      "HAQ-DI*": true,
+      "BASDAI*": null,
+      "SF-36v2\"": true,
+      "FACIT-F*": null,
+      "Vital Signs": "Xx",
+      "ECG": null,
+      "Physical Exam (c = complete, t = targeted)": {
+        "value": true,
+        "qualifier": "t"
+      }
+    },
+    "v4": {
+      "Week": 24.0,
+      "Day": "169 +4",
+      "Informed Consent?": null,
+      "Inclusion/exclusion criteria": null,
+      "Medical/Surgical History": null,
+      "Patient's Global Assessment of Disease Activity (VAS) (PtGA)*": "xX",
+      "Patient's Assessment of PsA Pain Intensity (VAS)*": "xX",
+      "HAQ-DI*": true,
+      "BASDAI*": true,
+      "SF-36v2\"": true,
+      "FACIT-F*": true,
+      "Vital Signs": true,
+      "ECG": true,
+      "Physical Exam (c = complete, t = targeted)": {
+        "value": true,
+        "qualifier": "t"
+      }
+    },
+    "V5 (EOT/Early EOT*)": {
+      "Week": 36.0,
+      "Day": 25344.0,
+      "Informed Consent?": null,
+      "Inclusion/exclusion criteria": null,
+      "Medical/Surgical History": null,
+      "Patient's Global Assessment of Disease Activity (VAS) (PtGA)*": true,
+      "Patient's Assessment of PsA Pain Intensity (VAS)*": true,
+      "HAQ-DI*": true,
+      "BASDAI*": true,
+      "SF-36v2\"": true,
+      "FACIT-F*": true,
+      "Vital Signs": "Xx",
+      "ECG": null,
+      "Physical Exam (c = complete, t = targeted)": {
+        "value": true,
+        "qualifier": "t"
+      }
+    }
+  },
+  "Follow-Up": {
+    "V6": {
+      "Week": 48.0,
+      "Day": 33644.0,
+      "Informed Consent?": null,
+      "Inclusion/exclusion criteria": null,
+      "Medical/Surgical History": null,
+      "Patient's Global Assessment of Disease Activity (VAS) (PtGA)*": true,
+      "Patient's Assessment of PsA Pain Intensity (VAS)*": true,
+      "HAQ-DI*": true,
+      "BASDAI*": true,
+      "SF-36v2\"": true,
+      "FACIT-F*": true,
+      "Vital Signs": true,
+      "ECG": true,
+      "Physical Exam (c = complete, t = targeted)": {
+        "value": true,
+        "qualifier": "t"
+      }
+    },
+    "EOS (EOT/Early EOT + 16 Weeks)": {
+      "Week": 52.0,
+      "Day": 36544.0,
+      "Informed Consent?": null,
+      "Inclusion/exclusion criteria": null,
+      "Medical/Surgical History": null,
+      "Patient's Global Assessment of Disease Activity (VAS) (PtGA)*": true,
+      "Patient's Assessment of PsA Pain Intensity (VAS)*": true,
+      "HAQ-DI*": true,
+      "BASDAI*": true,
+      "SF-36v2\"": true,
+      "FACIT-F*": null,
+      "Vital Signs": true,
+      "ECG": true,
+      "Physical Exam (c = complete, t = targeted)": {
+        "value": true,
+        "qualifier": "c"
+      }
+    }
+  },
+  "Follow-up Phone Call": {
+    "Follow-up Phone Call": {
+      "Week": 56.0,
+      "Day": 39244.0,
+      "Informed Consent?": null,
+      "Inclusion/exclusion criteria": null,
+      "Medical/Surgical History": null,
+      "Patient's Global Assessment of Disease Activity (VAS) (PtGA)*": null,
+      "Patient's Assessment of PsA Pain Intensity (VAS)*": null,
+      "HAQ-DI*": null,
+      "BASDAI*": null,
+      "SF-36v2\"": null,
+      "FACIT-F*": null,
+      "Vital Signs": null,
+      "ECG": null,
+      "Physical Exam (c = complete, t = targeted)": null
+    }
+  }
+}

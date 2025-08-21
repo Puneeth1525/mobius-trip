@@ -1,0 +1,156 @@
+[
+  {
+    "label": "Week",
+    "treatment_v1": "0°",
+    "treatment_v2": 4.0,
+    "treatment_v3": 12.0,
+    "treatment_v4": 24.0,
+    "treatment_v5_(eot/early_eot)": 36.0,
+    "follow-up_v6": 48.0,
+    "follow-up_eos_(eot/early_eot_+_16_weeks)": 52.0,
+    "follow-up_phone_call_follow-up_phone_call": 56.0
+  },
+  {
+    "label": "Day",
+    "treatment_v1": 1.0,
+    "treatment_v2": 2944.0,
+    "treatment_v3": 8544.0,
+    "treatment_v4": "169 +4",
+    "treatment_v5_(eot/early_eot)": 25344.0,
+    "follow-up_v6": 33644.0,
+    "follow-up_eos_(eot/early_eot_+_16_weeks)": 36544.0,
+    "follow-up_phone_call_follow-up_phone_call": 39244.0
+  },
+  {
+    "label": "Informed Consent?",
+    "treatment_v1": "XxX",
+    "treatment_v2": null,
+    "treatment_v3": null,
+    "treatment_v4": null,
+    "treatment_v5_(eot/early_eot)": null,
+    "follow-up_v6": null,
+    "follow-up_eos_(eot/early_eot_+_16_weeks)": null,
+    "follow-up_phone_call_follow-up_phone_call": null
+  },
+  {
+    "label": "Inclusion/exclusion criteria",
+    "treatment_v1": "XxX",
+    "treatment_v2": null,
+    "treatment_v3": null,
+    "treatment_v4": null,
+    "treatment_v5_(eot/early_eot)": null,
+    "follow-up_v6": null,
+    "follow-up_eos_(eot/early_eot_+_16_weeks)": null,
+    "follow-up_phone_call_follow-up_phone_call": null
+  },
+  {
+    "label": "Medical/Surgical History®",
+    "treatment_v1": "x*",
+    "treatment_v2": null,
+    "treatment_v3": null,
+    "treatment_v4": null,
+    "treatment_v5_(eot/early_eot)": null,
+    "follow-up_v6": null,
+    "follow-up_eos_(eot/early_eot_+_16_weeks)": null,
+    "follow-up_phone_call_follow-up_phone_call": null
+  },
+  {
+    "label": "Patient's Global Assessment of Disease Activity (VAS) (PtGA)*",
+    "treatment_v1": "x*",
+    "treatment_v2": "XxX",
+    "treatment_v3": "XxX",
+    "treatment_v4": "xX",
+    "treatment_v5_(eot/early_eot)": "XxX",
+    "follow-up_v6": "XxX",
+    "follow-up_eos_(eot/early_eot_+_16_weeks)": "XxX",
+    "follow-up_phone_call_follow-up_phone_call": null
+  },
+  {
+    "label": "Patient's Assessment of PsA Pain Intensity (VAS)*",
+    "treatment_v1": "x*",
+    "treatment_v2": "XxX",
+    "treatment_v3": "XxX",
+    "treatment_v4": "xX",
+    "treatment_v5_(eot/early_eot)": "XxX",
+    "follow-up_v6": "XxX",
+    "follow-up_eos_(eot/early_eot_+_16_weeks)": "XxX",
+    "follow-up_phone_call_follow-up_phone_call": null
+  },
+  {
+    "label": "HAQ-DI*",
+    "treatment_v1": "x",
+    "treatment_v2": "x",
+    "treatment_v3": "x",
+    "treatment_v4": "x",
+    "treatment_v5_(eot/early_eot)": "x",
+    "follow-up_v6": "x",
+    "follow-up_eos_(eot/early_eot_+_16_weeks)": "x",
+    "follow-up_phone_call_follow-up_phone_call": null
+  },
+  {
+    "label": "BASDAI*™",
+    "treatment_v1": "x’",
+    "treatment_v2": null,
+    "treatment_v3": null,
+    "treatment_v4": "x",
+    "treatment_v5_(eot/early_eot)": "x",
+    "follow-up_v6": "x",
+    "follow-up_eos_(eot/early_eot_+_16_weeks)": "x",
+    "follow-up_phone_call_follow-up_phone_call": null
+  },
+  {
+    "label": "SF-36v2\"",
+    "treatment_v1": "x’",
+    "treatment_v2": "x",
+    "treatment_v3": "x",
+    "treatment_v4": "x",
+    "treatment_v5_(eot/early_eot)": "x",
+    "follow-up_v6": "x",
+    "follow-up_eos_(eot/early_eot_+_16_weeks)": "x",
+    "follow-up_phone_call_follow-up_phone_call": null
+  },
+  {
+    "label": "FACIT-F*",
+    "treatment_v1": "x’",
+    "treatment_v2": null,
+    "treatment_v3": null,
+    "treatment_v4": "x",
+    "treatment_v5_(eot/early_eot)": "x",
+    "follow-up_v6": "x",
+    "follow-up_eos_(eot/early_eot_+_16_weeks)": null,
+    "follow-up_phone_call_follow-up_phone_call": null
+  },
+  {
+    "label": "Vital Signs®",
+    "treatment_v1": "x*",
+    "treatment_v2": "Xx",
+    "treatment_v3": "Xx",
+    "treatment_v4": "XxX",
+    "treatment_v5_(eot/early_eot)": "Xx",
+    "follow-up_v6": "X",
+    "follow-up_eos_(eot/early_eot_+_16_weeks)": "X",
+    "follow-up_phone_call_follow-up_phone_call": null
+  },
+  {
+    "label": "ECG®",
+    "treatment_v1": "x*",
+    "treatment_v2": null,
+    "treatment_v3": null,
+    "treatment_v4": "XxX",
+    "treatment_v5_(eot/early_eot)": null,
+    "follow-up_v6": "X",
+    "follow-up_eos_(eot/early_eot_+_16_weeks)": "X",
+    "follow-up_phone_call_follow-up_phone_call": null
+  },
+  {
+    "label": "Physical Exam® (c = complete, t = targeted)",
+    "treatment_v1": "X-c",
+    "treatment_v2": "X-t",
+    "treatment_v3": "X-t",
+    "treatment_v4": "X-t",
+    "treatment_v5_(eot/early_eot)": "X-t",
+    "follow-up_v6": "X-t",
+    "follow-up_eos_(eot/early_eot_+_16_weeks)": "X-c",
+    "follow-up_phone_call_follow-up_phone_call": null
+  }
+]

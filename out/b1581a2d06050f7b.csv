@@ -1,0 +1,16 @@
+Unnamed: 0_level_0,Treatment,Treatment,Treatment,Treatment,Treatment,Follow-Up,Follow-Up,Follow-up Phone Call
+Unnamed: 0_level_1,v1,v2,V3,v4,V5 (EOT/Early EOT*),V6,EOS (EOT/Early EOT + 16 Weeks),Follow-up Phone Call
+Week,0°,4.0,12.0,24.0,36.0,48.0,52.0,56.0
+Day,1.0,2944.0,8544.0,169 +4,25344.0,33644.0,36544.0,39244.0
+Informed Consent?,XxX,,,,,,,
+Inclusion/exclusion criteria,XxX,,,,,,,
+Medical/Surgical History®,x*,,,,,,,
+Patient's Global Assessment of Disease Activity (VAS) (PtGA)*,x*,XxX,XxX,xX,XxX,XxX,XxX,
+Patient's Assessment of PsA Pain Intensity (VAS)*,x*,XxX,XxX,xX,XxX,XxX,XxX,
+HAQ-DI*,x,x,x,x,x,x,x,
+BASDAI*™,x’,,,x,x,x,x,
+"SF-36v2""",x’,x,x,x,x,x,x,
+FACIT-F*,x’,,,x,x,x,,
+Vital Signs®,x*,Xx,Xx,XxX,Xx,X,X,
+ECG®,x*,,,XxX,,X,X,
+"Physical Exam® (c = complete, t = targeted)",X-c,X-t,X-t,X-t,X-t,X-t,X-c,

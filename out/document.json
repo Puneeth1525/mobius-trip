@@ -1,0 +1,43 @@
+{
+  "source_path": "incoming/protocol1-91.pdf",
+  "filetype": "pdf",
+  "tables": [
+    {
+      "id": "b1581a2d06050f7b",
+      "page": 1,
+      "caption": null,
+      "html_original": "<table><thead><tr><th></th><th colspan=\"5\">Treatment</th><th colspan=\"2\">Follow-Up</th><th rowspan=\"2\">Follow-up Phone Call</th></tr><tr><th></th><th>v1</th><th>v2</th><th>V3</th><th>v4</th><th>V5 (EOT/Early EOT*)</th><th>V6</th><th>EOS (EOT/Early EOT + 16 Weeks)</th></tr></thead><tbody><tr><td>Week</td><td>0\u00b0</td><td>4</td><td>12</td><td>24</td><td>36</td><td>48</td><td>52</td><td>56</td></tr><tr><td>Day</td><td>1</td><td>2944</td><td>8544</td><td>169 +4</td><td>25344</td><td>33644</td><td>36544</td><td>39244</td></tr><tr><td>Informed Consent?</td><td>XxX</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Inclusion/exclusion criteria</td><td>XxX</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Medical/Surgical History\u00ae</td><td>x*</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Patient's Global Assessment of Disease Activity (VAS) (PtGA)*</td><td>x*</td><td>XxX</td><td>XxX</td><td>xX</td><td>XxX</td><td>XxX</td><td>XxX</td><td></td></tr><tr><td>Patient's Assessment of PsA Pain Intensity (VAS)*</td><td>x*</td><td>XxX</td><td>XxX</td><td>xX</td><td>XxX</td><td>XxX</td><td>XxX</td><td></td></tr><tr><td>HAQ-DI*</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td></td></tr><tr><td>BASDAI*\u2122</td><td>x\u2019</td><td></td><td></td><td>x</td><td>x</td><td>x</td><td>x</td><td></td></tr><tr><td>SF-36v2\"</td><td>x\u2019</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td></td></tr><tr><td>FACIT-F*</td><td>x\u2019</td><td></td><td></td><td>x</td><td>x</td><td>x</td><td></td><td></td></tr><tr><td>Vital Signs\u00ae</td><td>x*</td><td>Xx</td><td>Xx</td><td>XxX</td><td>Xx</td><td>X</td><td>X</td><td></td></tr><tr><td>ECG\u00ae</td><td>x*</td><td></td><td></td><td>XxX</td><td></td><td>X</td><td>X</td><td></td></tr><tr><td>Physical Exam\u00ae (c = complete, t = targeted)</td><td>X-c</td><td>X-t</td><td>X-t</td><td>X-t</td><td>X-t</td><td>X-t</td><td>X-c</td><td></td></tr></tbody></table>",
+      "csv_path": "b1581a2d06050f7b.csv",
+      "md_path": "b1581a2d06050f7b.md",
+      "row_records_path": "b1581a2d06050f7b.raw_rows.json",
+      "col_records_path": "b1581a2d06050f7b.raw_cols.json",
+      "by_column_path": "b1581a2d06050f7b.refined_by_column.json",
+      "by_row_path": "b1581a2d06050f7b.refined_by_row.json",
+      "nrows": 14,
+      "ncols": 9,
+      "headers": [
+        "Unnamed: 0_level_0 Unnamed: 0_level_1",
+        "Treatment v1",
+        "Treatment v2",
+        "Treatment V3",
+        "Treatment v4",
+        "Treatment V5 (EOT/Early EOT*)",
+        "Follow-Up V6",
+        "Follow-Up EOS (EOT/Early EOT + 16 Weeks)",
+        "Follow-up Phone Call Follow-up Phone Call"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": null,
+      "page": null,
+      "paragraphs": [
+        {
+          "page": 1,
+          "text": "Q0DdDVIE Risankizumab/ABBV-066 M16-244 Protocol Amendment | EudraCT 2016-003113-94"
+        }
+      ]
+    }
+  ]
+}

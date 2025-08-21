@@ -1,0 +1,22 @@
+# Core
+unstructured[pdf,docx,hi_res]==0.15.13
+unstructured-inference==0.7.36
+unstructured-client==0.25.9
+
+# Parsing and data
+pandas==2.2.2
+lxml==5.2.2
+beautifulsoup4==4.12.3
+pypdfium2==4.30.0
+pikepdf==8.15.1
+
+# Imaging stack
+Pillow==10.4.0
+olefile==0.47
+
+# Utils
+rapidfuzz==3.9.7
+python-dateutil==2.9.0.post0
+python-docx==1.1.2
+tomli==2.0.1
+pdfminer.six==20221105

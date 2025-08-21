@@ -1,0 +1,210 @@
+[
+  {
+    "category": "NarrativeText",
+    "text": "Q0DdDVIE Risankizumab/ABBV-066 M16-244 Protocol Amendment | EudraCT 2016-003113-94",
+    "page_number": 1,
+    "text_as_html": null
+  },
+  {
+    "category": "Title",
+    "text": "Appendix C. Study Activities",
+    "page_number": 1,
+    "text_as_html": null
+  },
+  {
+    "category": "Table",
+    "text": "Treatment Follow-Up V5 (EOT/Early EOS (EOT/Early Follow-up v1 v2 V3 v4 EOT*) V6 EOT + 16 Weeks) Phone Call Week 0° 4 12 24 36 48 52 56 Day 1 2944 8544 169 +4 25344 33644 36544 39244 Informed Consent? XxX Inclusion/exclusion criteria XxX Medical/Surgical History® x* Patient's Global Assessment of x* XxX XxX xX XxX XxX XxX Disease Activity (VAS) (PtGA)* Patient's Assessment of PsA Pain x* XxX XxX xX XxX XxX XxX Intensity (VAS)* HAQ-DI! x x x x x x x BASDAI*™ x’ x x x x SF-36v2\" x’ x x x x x x FACIT-F* x’ x x x Vital Signs® x* Xx Xx XxX Xx X X ECG® x* XxX X X Physical Exam® X-c X-t X-t X-t X-t X-t X-c (c = complete, t = targeted) Concomitant Therapy’ x* xX xX xX xX xX xX xX",
+    "page_number": 1,
+    "text_as_html": "<table><thead><tr><th></th><th colspan=\"5\">Treatment</th><th colspan=\"2\">Follow-Up</th><th rowspan=\"2\">Follow-up Phone Call</th></tr><tr><th></th><th>v1</th><th>v2</th><th>V3</th><th>v4</th><th>V5 (EOT/Early EOT*)</th><th>V6</th><th>EOS (EOT/Early EOT + 16 Weeks)</th></tr></thead><tbody><tr><td>Week</td><td>0°</td><td>4</td><td>12</td><td>24</td><td>36</td><td>48</td><td>52</td><td>56</td></tr><tr><td>Day</td><td>1</td><td>2944</td><td>8544</td><td>169 +4</td><td>25344</td><td>33644</td><td>36544</td><td>39244</td></tr><tr><td>Informed Consent?</td><td>XxX</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Inclusion/exclusion criteria</td><td>XxX</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Medical/Surgical History®</td><td>x*</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Patient's Global Assessment of Disease Activity (VAS) (PtGA)*</td><td>x*</td><td>XxX</td><td>XxX</td><td>xX</td><td>XxX</td><td>XxX</td><td>XxX</td><td></td></tr><tr><td>Patient's Assessment of PsA Pain Intensity (VAS)*</td><td>x*</td><td>XxX</td><td>XxX</td><td>xX</td><td>XxX</td><td>XxX</td><td>XxX</td><td></td></tr><tr><td>HAQ-DI*</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td></td></tr><tr><td>BASDAI*™</td><td>x’</td><td></td><td></td><td>x</td><td>x</td><td>x</td><td>x</td><td></td></tr><tr><td>SF-36v2\"</td><td>x’</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td></td></tr><tr><td>FACIT-F*</td><td>x’</td><td></td><td></td><td>x</td><td>x</td><td>x</td><td></td><td></td></tr><tr><td>Vital Signs®</td><td>x*</td><td>Xx</td><td>Xx</td><td>XxX</td><td>Xx</td><td>X</td><td>X</td><td></td></tr><tr><td>ECG®</td><td>x*</td><td></td><td></td><td>XxX</td><td></td><td>X</td><td>X</td><td></td></tr><tr><td>Physical Exam® (c = complete, t = targeted)</td><td>X-c</td><td>X-t</td><td>X-t</td><td>X-t</td><td>X-t</td><td>X-t</td><td>X-c</td><td></td></tr></tbody></table>",
+    "table_preview": [
+      {
+        "orientation": "column",
+        "columns": [
+          "Unnamed: 0_level_0 Unnamed: 0_level_1",
+          "Treatment v1",
+          "Treatment v2",
+          "Treatment V3",
+          "Treatment v4",
+          "Treatment V5 (EOT/Early EOT*)",
+          "Follow-Up V6",
+          "Follow-Up EOS (EOT/Early EOT + 16 Weeks)",
+          "Follow-up Phone Call Follow-up Phone Call"
+        ],
+        "preview_records": [
+          {
+            "column": "Unnamed: 0_level_0 Unnamed: 0_level_1",
+            "values": [
+              "Week",
+              "Day",
+              "Informed Consent?",
+              "Inclusion/exclusion criteria",
+              "Medical/Surgical History®",
+              "Patient's Global Assessment of Disease Activity (VAS) (PtGA)*"
+            ]
+          },
+          {
+            "column": "Treatment v1",
+            "values": [
+              "0°",
+              1.0,
+              "XxX",
+              "XxX",
+              "x*",
+              "x*"
+            ],
+            "index": [
+              "Week",
+              "Day",
+              "Informed Consent?",
+              "Inclusion/exclusion criteria",
+              "Medical/Surgical History®",
+              "Patient's Global Assessment of Disease Activity (VAS) (PtGA)*"
+            ]
+          },
+          {
+            "column": "Treatment v2",
+            "values": [
+              4.0,
+              2944.0,
+              null,
+              null,
+              null,
+              "XxX"
+            ],
+            "index": [
+              "Week",
+              "Day",
+              "Informed Consent?",
+              "Inclusion/exclusion criteria",
+              "Medical/Surgical History®",
+              "Patient's Global Assessment of Disease Activity (VAS) (PtGA)*"
+            ]
+          },
+          {
+            "column": "Treatment V3",
+            "values": [
+              12.0,
+              8544.0,
+              null,
+              null,
+              null,
+              "XxX"
+            ],
+            "index": [
+              "Week",
+              "Day",
+              "Informed Consent?",
+              "Inclusion/exclusion criteria",
+              "Medical/Surgical History®",
+              "Patient's Global Assessment of Disease Activity (VAS) (PtGA)*"
+            ]
+          },
+          {
+            "column": "Treatment v4",
+            "values": [
+              24.0,
+              "169 +4",
+              null,
+              null,
+              null,
+              "xX"
+            ],
+            "index": [
+              "Week",
+              "Day",
+              "Informed Consent?",
+              "Inclusion/exclusion criteria",
+              "Medical/Surgical History®",
+              "Patient's Global Assessment of Disease Activity (VAS) (PtGA)*"
+            ]
+          },
+          {
+            "column": "Treatment V5 (EOT/Early EOT*)",
+            "values": [
+              36.0,
+              25344.0,
+              null,
+              null,
+              null,
+              "XxX"
+            ],
+            "index": [
+              "Week",
+              "Day",
+              "Informed Consent?",
+              "Inclusion/exclusion criteria",
+              "Medical/Surgical History®",
+              "Patient's Global Assessment of Disease Activity (VAS) (PtGA)*"
+            ]
+          },
+          {
+            "column": "Follow-Up V6",
+            "values": [
+              48.0,
+              33644.0,
+              null,
+              null,
+              null,
+              "XxX"
+            ],
+            "index": [
+              "Week",
+              "Day",
+              "Informed Consent?",
+              "Inclusion/exclusion criteria",
+              "Medical/Surgical History®",
+              "Patient's Global Assessment of Disease Activity (VAS) (PtGA)*"
+            ]
+          },
+          {
+            "column": "Follow-Up EOS (EOT/Early EOT + 16 Weeks)",
+            "values": [
+              52.0,
+              36544.0,
+              null,
+              null,
+              null,
+              "XxX"
+            ],
+            "index": [
+              "Week",
+              "Day",
+              "Informed Consent?",
+              "Inclusion/exclusion criteria",
+              "Medical/Surgical History®",
+              "Patient's Global Assessment of Disease Activity (VAS) (PtGA)*"
+            ]
+          },
+          {
+            "column": "Follow-up Phone Call Follow-up Phone Call",
+            "values": [
+              56.0,
+              39244.0,
+              null,
+              null,
+              null,
+              null
+            ],
+            "index": [
+              "Week",
+              "Day",
+              "Informed Consent?",
+              "Inclusion/exclusion criteria",
+              "Medical/Surgical History®",
+              "Patient's Global Assessment of Disease Activity (VAS) (PtGA)*"
+            ]
+          }
+        ],
+        "preview_rows": 6,
+        "total_rows": 14,
+        "total_cols": 9
+      }
+    ]
+  },
+  {
+    "category": "Footer",
+    "text": "91",
+    "page_number": 1,
+    "text_as_html": null
+  }
+]

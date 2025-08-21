@@ -1,0 +1,247 @@
+{
+  "Week": {
+    "Treatment": {
+      "v1": "0°",
+      "v2": 4.0,
+      "V3": 12.0,
+      "v4": 24.0,
+      "V5 (EOT/Early EOT*)": 36.0
+    },
+    "Follow-Up": {
+      "V6": 48.0,
+      "EOS (EOT/Early EOT + 16 Weeks)": 52.0
+    },
+    "Follow-up Phone Call": {
+      "Follow-up Phone Call": 56.0
+    }
+  },
+  "Day": {
+    "Treatment": {
+      "v1": 1.0,
+      "v2": 2944.0,
+      "V3": 8544.0,
+      "v4": "169 +4",
+      "V5 (EOT/Early EOT*)": 25344.0
+    },
+    "Follow-Up": {
+      "V6": 33644.0,
+      "EOS (EOT/Early EOT + 16 Weeks)": 36544.0
+    },
+    "Follow-up Phone Call": {
+      "Follow-up Phone Call": 39244.0
+    }
+  },
+  "Informed Consent?": {
+    "Treatment": {
+      "v1": true,
+      "v2": null,
+      "V3": null,
+      "v4": null,
+      "V5 (EOT/Early EOT*)": null
+    },
+    "Follow-Up": {
+      "V6": null,
+      "EOS (EOT/Early EOT + 16 Weeks)": null
+    },
+    "Follow-up Phone Call": {
+      "Follow-up Phone Call": null
+    }
+  },
+  "Inclusion/exclusion criteria": {
+    "Treatment": {
+      "v1": true,
+      "v2": null,
+      "V3": null,
+      "v4": null,
+      "V5 (EOT/Early EOT*)": null
+    },
+    "Follow-Up": {
+      "V6": null,
+      "EOS (EOT/Early EOT + 16 Weeks)": null
+    },
+    "Follow-up Phone Call": {
+      "Follow-up Phone Call": null
+    }
+  },
+  "Medical/Surgical History": {
+    "Treatment": {
+      "v1": "x*",
+      "v2": null,
+      "V3": null,
+      "v4": null,
+      "V5 (EOT/Early EOT*)": null
+    },
+    "Follow-Up": {
+      "V6": null,
+      "EOS (EOT/Early EOT + 16 Weeks)": null
+    },
+    "Follow-up Phone Call": {
+      "Follow-up Phone Call": null
+    }
+  },
+  "Patient's Global Assessment of Disease Activity (VAS) (PtGA)*": {
+    "Treatment": {
+      "v1": "x*",
+      "v2": true,
+      "V3": true,
+      "v4": "xX",
+      "V5 (EOT/Early EOT*)": true
+    },
+    "Follow-Up": {
+      "V6": true,
+      "EOS (EOT/Early EOT + 16 Weeks)": true
+    },
+    "Follow-up Phone Call": {
+      "Follow-up Phone Call": null
+    }
+  },
+  "Patient's Assessment of PsA Pain Intensity (VAS)*": {
+    "Treatment": {
+      "v1": "x*",
+      "v2": true,
+      "V3": true,
+      "v4": "xX",
+      "V5 (EOT/Early EOT*)": true
+    },
+    "Follow-Up": {
+      "V6": true,
+      "EOS (EOT/Early EOT + 16 Weeks)": true
+    },
+    "Follow-up Phone Call": {
+      "Follow-up Phone Call": null
+    }
+  },
+  "HAQ-DI*": {
+    "Treatment": {
+      "v1": true,
+      "v2": true,
+      "V3": true,
+      "v4": true,
+      "V5 (EOT/Early EOT*)": true
+    },
+    "Follow-Up": {
+      "V6": true,
+      "EOS (EOT/Early EOT + 16 Weeks)": true
+    },
+    "Follow-up Phone Call": {
+      "Follow-up Phone Call": null
+    }
+  },
+  "BASDAI*": {
+    "Treatment": {
+      "v1": true,
+      "v2": null,
+      "V3": null,
+      "v4": true,
+      "V5 (EOT/Early EOT*)": true
+    },
+    "Follow-Up": {
+      "V6": true,
+      "EOS (EOT/Early EOT + 16 Weeks)": true
+    },
+    "Follow-up Phone Call": {
+      "Follow-up Phone Call": null
+    }
+  },
+  "SF-36v2\"": {
+    "Treatment": {
+      "v1": true,
+      "v2": true,
+      "V3": true,
+      "v4": true,
+      "V5 (EOT/Early EOT*)": true
+    },
+    "Follow-Up": {
+      "V6": true,
+      "EOS (EOT/Early EOT + 16 Weeks)": true
+    },
+    "Follow-up Phone Call": {
+      "Follow-up Phone Call": null
+    }
+  },
+  "FACIT-F*": {
+    "Treatment": {
+      "v1": true,
+      "v2": null,
+      "V3": null,
+      "v4": true,
+      "V5 (EOT/Early EOT*)": true
+    },
+    "Follow-Up": {
+      "V6": true,
+      "EOS (EOT/Early EOT + 16 Weeks)": null
+    },
+    "Follow-up Phone Call": {
+      "Follow-up Phone Call": null
+    }
+  },
+  "Vital Signs": {
+    "Treatment": {
+      "v1": "x*",
+      "v2": "Xx",
+      "V3": "Xx",
+      "v4": true,
+      "V5 (EOT/Early EOT*)": "Xx"
+    },
+    "Follow-Up": {
+      "V6": true,
+      "EOS (EOT/Early EOT + 16 Weeks)": true
+    },
+    "Follow-up Phone Call": {
+      "Follow-up Phone Call": null
+    }
+  },
+  "ECG": {
+    "Treatment": {
+      "v1": "x*",
+      "v2": null,
+      "V3": null,
+      "v4": true,
+      "V5 (EOT/Early EOT*)": null
+    },
+    "Follow-Up": {
+      "V6": true,
+      "EOS (EOT/Early EOT + 16 Weeks)": true
+    },
+    "Follow-up Phone Call": {
+      "Follow-up Phone Call": null
+    }
+  },
+  "Physical Exam (c = complete, t = targeted)": {
+    "Treatment": {
+      "v1": {
+        "value": true,
+        "qualifier": "c"
+      },
+      "v2": {
+        "value": true,
+        "qualifier": "t"
+      },
+      "V3": {
+        "value": true,
+        "qualifier": "t"
+      },
+      "v4": {
+        "value": true,
+        "qualifier": "t"
+      },
+      "V5 (EOT/Early EOT*)": {
+        "value": true,
+        "qualifier": "t"
+      }
+    },
+    "Follow-Up": {
+      "V6": {
+        "value": true,
+        "qualifier": "t"
+      },
+      "EOS (EOT/Early EOT + 16 Weeks)": {
+        "value": true,
+        "qualifier": "c"
+      }
+    },
+    "Follow-up Phone Call": {
+      "Follow-up Phone Call": null
+    }
+  }
+}
