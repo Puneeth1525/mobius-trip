@@ -22,3 +22,5 @@ class DocOut(TypedDict):
     filetype: str
     tables: List[TableOut]
     sections: List[SectionOut]
+
+
